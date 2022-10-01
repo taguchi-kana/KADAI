@@ -1,0 +1,10 @@
+#button_start,#button_stop,#button_reset{
+   width:100px;
+   height:50px;
+   font-weight: bold;
+}
+   
+p{
+   font-size:30px;
+   margin: 30px;
+}
